@@ -1,0 +1,22 @@
+{
+  "name": "stream-audio",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket-ntp": "^0.1.0",
+    "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
